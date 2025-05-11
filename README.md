@@ -1,6 +1,6 @@
 # Real-time-Digit-Classifier
 
-This project implements a real-time digit classifier using the MNIST dataset. The model uses a Convolutional Neural Network (CNN) to classify digits (0-9) from images captured from a webcam feed in real time.It also includes a web interface where users can upload the digit or show the digit for webcam for real tiem prediction
+This project implements a real-time digit classifier using the MNIST dataset. The model uses a Convolutional Neural Network (CNN) to classify digits (0-9) from images captured from a webcam feed in real time.It also includes a web interface where users can upload the digit or show the digit for webcam for real time prediction
 
 ## Features
 - Real-time digit classification using a webcam.

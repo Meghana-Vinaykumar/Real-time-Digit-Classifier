@@ -28,4 +28,4 @@ This project implements a real-time digit classifier using the MNIST dataset. Th
 ## Results
 
 ![Image1](Image1.png)
-![Image2}(Image2.jpeg)
+![Image2](Image2.jpeg)

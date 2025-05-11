@@ -9,9 +9,9 @@ This project implements a real-time digit classifier using the MNIST dataset. Th
 - Built with Python and OpenCV for real-time webcam interaction.
   
 ## Model Details
-*** Architecture: Convolutional Neural Network (CNN)
 
-- Dataset: MNIST
+-  Architecture: Convolutional Neural Network (CNN)
+-  Dataset: MNIST
 - Layers:Convolutional layers
 - Max pooling layers
 - Output layer (softmax)

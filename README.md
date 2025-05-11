@@ -8,31 +8,19 @@ This project implements a real-time digit classifier using the MNIST dataset. Th
 - Predicts digits as the user writes them or displays them in front of the camera.
 - Built with Python and OpenCV for real-time webcam interaction.
   
-Model Details
-Architecture: Convolutional Neural Network (CNN)
+## Model Details
+*** Architecture: Convolutional Neural Network (CNN)
 
-Dataset: MNIST
-
-Layers:
-
-Convolutional layers
-
-Max pooling layers
-
-Fully connected layers
-
-Output layer (softmax)
+- Dataset: MNIST
+- Layers:Convolutional layers
+- Max pooling layers
+- Output layer (softmax)
 
 
-Requirements
-Python 3.x
-
-OpenCV
-
-TensorFlow
-
-NumPy
-
-matplotlib
-
-scikit-learn
+## Requirements
+- Python 3.x
+- OpenCV
+- TensorFlow
+- NumPy
+- matplotlib
+- scikit-learn

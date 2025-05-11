@@ -25,6 +25,7 @@ This project implements a real-time digit classifier using the MNIST dataset. Th
 - matplotlib
 - scikit-learn
 
-##Results
+## Results
 
 ![Image1](Image1.png)
+![Image2}(Image2.png)

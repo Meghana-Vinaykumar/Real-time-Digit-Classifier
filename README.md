@@ -24,3 +24,7 @@ This project implements a real-time digit classifier using the MNIST dataset. Th
 - NumPy
 - matplotlib
 - scikit-learn
+
+##Results
+
+![image1](image1.png)
